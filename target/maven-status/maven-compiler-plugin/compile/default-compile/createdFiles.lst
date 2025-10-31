@@ -13,5 +13,7 @@ graph\scc\SCC.class
 graph\topo\KahnTopologicalSort.class
 graph\GraphData$EdgeData.class
 graph\dagsp\ShortestPathResult.class
+main\GenerateDatasets.class
 graph\dagsp\DAGSP.class
+utils\GraphGenerator.class
 graph\GraphData.class
