@@ -3,11 +3,15 @@ graph\scc\TarjanSCC.class
 graph\Edge.class
 graph\scc\SCCResult.class
 graph\topo\TopologicalSortResult.class
+graph\GraphLoader.class
 graph\topo\TopologicalSort.class
 graph\Metrics.class
+main\Main.class
 graph\dagsp\CriticalPathResult.class
 graph\dagsp\DAGShortestPath.class
 graph\scc\SCC.class
 graph\topo\KahnTopologicalSort.class
+graph\GraphData$EdgeData.class
 graph\dagsp\ShortestPathResult.class
 graph\dagsp\DAGSP.class
+graph\GraphData.class
