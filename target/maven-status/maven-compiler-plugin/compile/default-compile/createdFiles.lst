@@ -1,6 +1,9 @@
 graph\Graph.class
 graph\scc\TarjanSCC.class
 graph\Edge.class
-graph\Metrics.class
 graph\scc\SCCResult.class
+graph\topo\TopologicalSortResult.class
 graph\scc\SCC.class
+graph\topo\KahnTopologicalSort.class
+graph\topo\TopologicalSort.class
+graph\Metrics.class
